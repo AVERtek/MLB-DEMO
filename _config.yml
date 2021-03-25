@@ -2,7 +2,7 @@
 logo1: "images/Company Here.jpg? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h2><b>CELEBRATE YOUR TEAM</h2></b>
-  <h3><b>Share Your Fan-Kit</h3></b>
+  <h3><b>Share Fan-Kit With Friends</h3></b>
   <br><br>
   <b>GEAR UP:</b><a href="https://bit.ly/3vWuhDY" onclick="getOutboundLink('https://bit.ly/3vWuhDY'); return false;"</b><b> MLB Fan's Here</b></a>
   <br><br> 
