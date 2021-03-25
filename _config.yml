@@ -6,13 +6,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <b>GEAR UP:</b><a href="https://bit.ly/3vWuhDY" onclick="getOutboundLink('https://bit.ly/3vWuhDY'); return false;"</b><b> MLB Fan's Here</b></a>
   <br><br> 
-  <b>CATCH A GAME:</b><a href="https://www.mlb.com/dodgers/schedule/2021-03" onclick="getOutboundLink('https://www.mlb.com/dodgers/schedule/2021-03'); return false;"</b><b> 2021 Schedule</b></a>
+  <b>CATCH A GAME:</b><a href="https://binged.it/3cgXodx" onclick="getOutboundLink('https://binged.it/3cgXodx'); return false;"</b><b> 2021 MLB Schedule</b></a>
   <br><br>
-  <b>BUY TICKETS:</b><a href="https://www.mlb.com/dodgers/tickets" onclick="getOutboundLink('https://www.mlb.com/dodgers/tickets'); return false;"</b><b> Quick & Easy</b></a>
+  <b>BUY TICKETS:</b><a href="https://bit.ly/3tRcpsn" onclick="getOutboundLink('https://bit.ly/3tRcpsn'); return false;"</b><b> Quick & Easy</b></a>
   <br><br>
-  <b>EXPLORE AUTHENTIC LA LIVING:</b><a href="https://alexanbahay.com/gallery/video/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://alexanbahay.com/gallery/video/?utm_source=AVERtek&utm_medium=AR'); return false;"</b><b> Alexan Bahay Means Home</b></a> 
+  <b>EXPLORE (YOUR COMPANY):</b><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;"</b><b> Augmented Reality Marketing</b></a> 
   <br><br>
-  <b>DISCOVER HOME:</b><a href="https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR'); return false;"</b> <b> Contact Us</a> 
+  <b>DISCOVER MORE:</b><a href="https://avertek.net/contact-us" onclick="getOutboundLink('https://avertek.net/contact-us'); return false;"</b> <b> Contact Us</a> 
   <br><br>
 theme: jekyll-theme-minimal
 # Google Analytics
