@@ -1,5 +1,5 @@
 <img src="images/Dodgers 1.jfif" width=200>
-### Join The Dancing Dodger Fan's "7th Inning Stretch"; <!-- Loads <model-viewer> for old browsers like IE11: -->
+### Join The Dancing Fan's "7th Inning Stretch"; <!-- Loads <model-viewer> for old browsers like IE11: -->
 ### Use Mobile; Press AR, Dance Along, Share Video! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
@@ -81,7 +81,7 @@
    </script>
 
 
-<model-viewer src="Models/DodgerDance_1min14sec_01.glb?sound=Sound/Dodger Dance.mp3" camera-controls camera-orbit="0deg 90deg 65%" autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" ar ar-modes="scene-viewer webxr quick-look" ios-src="Models/DodgerGuy.reality" alt="Dodgers AB" auto-rotate-delay="0" ar-scale="auto" camera-controls alt="Dancing Dodger Character" style="width: 95%; height: 650px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer src="Models/AvertekDance_2min13sec_01.glb?sound=Sound/XR-NOW MLB DEMO track(online-sudio-converter.com).mp3" camera-controls camera-orbit="0deg 90deg 65%" autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" ar ar-modes="scene-viewer webxr quick-look" ios-src="Models/DodgerGuy.reality" alt="Dodgers AB" auto-rotate-delay="0" ar-scale="auto" camera-controls alt="Dancing Dodger Character" style="width: 95%; height: 650px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
@@ -89,10 +89,10 @@
 <section class="attribution">
         <div>
           <span>
-            <h1>Dancing Dodger Fan</h1>
+            <h1>Dancing MLB Fan</h1>
             <span>
               <audio controls autoplay loop id="sound">
-                <source src="Sound/Dodger Dance.mp3"/>
+                <source src="Sound/XR-NOW MLB DEMO track(online-sudio-converter.com).mp3"/>
               </audio
             ></span>
           </span>
