@@ -1,6 +1,6 @@
-# Join The Dancing Fan's "7th Inning Stretch"! <!-- Loads <model-viewer> for old browsers like IE11: -->
+## Join The Dancing Fan's "7th Inning Stretch" <!-- Loads <model-viewer> for old browsers like IE11: -->
 <img src="images/XR-NOW.png" width=100>
-## Use Mobile; Press AR, Dance Along, Share Video! <!-- Loads <model-viewer> for old browsers like IE11: -->
+# Use Mobile; Press AR, Dance Along, Share Video! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
 
